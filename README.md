@@ -6,6 +6,6 @@ Consider an emergency. You need to activate siren for warning peoples. Residenta
 <ul>
   <li>Connect a speaker on an ESP8266</li>
   <li>Power the ESP8266</li>
-  <li>Open the code then fill the network cridentals and number of speaker pin. Thenupload te code.</li>
+  <li>Open the code then fill the network cridentals and number of speaker pin. Then upload the code.</li>
   <li>You can fordward the port</li>
 </ul>
